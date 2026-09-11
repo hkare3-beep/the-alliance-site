@@ -1,8 +1,12 @@
 :root {
-  --primary: #ff1a1a;   /* Red */
-  --accent: #b30000;    /* Dark red */
-  --text: #ffffff;      /* White text */
-  --bg: #000000;        /* Black background */
+  --primary: #ff1a1a;        /* Red */
+  --primary-dark: #990000;   /* Darker red */
+  --accent: #b30000;         /* Deep red */
+  --text: #ffffff;           /* White text */
+  --text-light: #cccccc;     /* Light gray text */
+  --bg: #000000;             /* Black background */
+  --bg-light: #111111;       /* Slightly lighter black */
+  --border: #333333;         /* Dark gray border */
 }
 
 * {
