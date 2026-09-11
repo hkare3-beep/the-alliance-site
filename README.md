@@ -58,10 +58,10 @@ A fully functional website for The Alliance, an interdisciplinary student resear
 Edit the CSS variables in `assets/styles.css`:
 ```css
 :root {
-  --primary: #2563eb;           /* Primary blue */
-  --accent: #f59e0b;            /* Amber accent */
-  --text: #1f2937;              /* Dark text */
-  --bg: #ffffff;                /* White background */
+  --primary: #ff0000;           /* Bright red */
+  --accent: #b30000;            /* Darker red accent */
+  --text: #ffffff;              /* white text */
+  --bg: #000000;                /* Black background */
 }
 ```
 
