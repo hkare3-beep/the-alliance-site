@@ -452,6 +452,18 @@ section.alt {
   object-fit: contain;
 }
 
+.project-flow {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--primary);
+}
+
+.project-flow span {
+  color: var(--text-light);
+  padding: 0 0.35rem;
+}
+
 .footer-tagline {
   color: rgba(255, 255, 255, 0.7);
   font-size: 0.95rem;

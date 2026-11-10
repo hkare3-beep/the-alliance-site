@@ -1,6 +1,6 @@
 # SAIR — Student Association for Innovation and Research
 
-A static website for SAIR (Student Association for Innovation and Research).
+A static website for SAIR (Student Association for Innovation and Research), a student-led, inclusive, interdisciplinary community focused on research, innovation, collaboration, and practical projects.
 
 ## Pages
 
