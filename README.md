@@ -1,15 +1,15 @@
 # SAIR — Student Association for Innovation and Research
 
-A fully functional website for SAIR (Student Association for Innovation and Research), an interdisciplinary student research and project organization at the University of Illinois Chicago.
+A static website for SAIR (Student Association for Innovation and Research).
 
 ## Pages
 
-- **index.html** - Home page with hero section, mission statement, and calls to action
-- **about.html** - Organization mission, values, and structure
-- **projects.html** - Featured projects and initiatives
-- **research.html** - Research pathway information and opportunities
-- **events.html** - Upcoming events, workshops, and regular meetings
-- **join.html** - How to join SAIR
+- **index.html** - Home page
+- **about.html** - About page
+- **projects.html** - Projects page
+- **research.html** - Research page
+- **events.html** - Events page
+- **join.html** - Join page
 
 ## Features
 
@@ -53,27 +53,6 @@ A fully functional website for SAIR (Student Association for Innovation and Rese
 └── README.md          # This file
 ```
 
-## Customization
-
-### Colors
-Edit the CSS variables in `assets/styles.css`:
-```css
-:root {
-  --primary: #ff0000;           /* Bright red */
-  --accent: #b30000;            /* Darker red accent */
-  --text: #ffffff;              /* white text */
-  --bg: #000000;                /* Black background */
-}
-```
-
-### Content
-Edit the HTML files directly to update:
-- Organization name and tagline
-- Event dates and descriptions
-- Project details
-- Contact information
-- Links and navigation
-
 ## License
 
-Copyright © 2026 SAIR. All rights reserved.
+Copyright © SAIR. All rights reserved.
