@@ -47,6 +47,7 @@ A fully functional website for SAIR (Student Association for Innovation and Rese
 ├── events.html         # Events page
 ├── join.html          # Join page
 ├── assets/
+│   ├── SAIR.png        # Organization logo
 │   ├── styles.css     # All styling
 │   └── main.js        # Interactive features
 └── README.md          # This file
