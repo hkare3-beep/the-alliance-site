@@ -31,4 +31,4 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 
-console.log('The Alliance website loaded successfully!');
+console.log('SAIR website loaded successfully!');

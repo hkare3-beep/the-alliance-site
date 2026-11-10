@@ -1,6 +1,6 @@
-# The Alliance — Research. Innovate. Impact.
+# SAIR — Student Association for Innovation and Research
 
-A fully functional website for The Alliance, an interdisciplinary student research and project organization at the University of Illinois Chicago.
+A fully functional website for SAIR (Student Association for Innovation and Research), an interdisciplinary student research and project organization at the University of Illinois Chicago.
 
 ## Pages
 
@@ -9,7 +9,7 @@ A fully functional website for The Alliance, an interdisciplinary student resear
 - **projects.html** - Featured projects and initiatives
 - **research.html** - Research pathway information and opportunities
 - **events.html** - Upcoming events, workshops, and regular meetings
-- **join.html** - How to join The Alliance
+- **join.html** - How to join SAIR
 
 ## Features
 
@@ -75,4 +75,4 @@ Edit the HTML files directly to update:
 
 ## License
 
-Copyright © 2026 The Alliance. All rights reserved.
+Copyright © 2026 SAIR. All rights reserved.
